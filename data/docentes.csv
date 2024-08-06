@@ -1,5 +1,10 @@
-Nombre;Apellido;Universidad;Edad
-Alonso;Quijano Ruiz; University of Minnesota; 32
-Daniel; Sanchez Pazmiño; SFU;26
-Maro; Faytong Haro; Penn State Universtiy;33
-Grace; Armijo; Universidad de Barcelona;32
+Nombre,Apellido,Universidad,Edad
+Alonso,Quijano Ruiz,University of Minnesota,32
+Daniel,Sanchez Pazmiño,SFU,26
+Maro,Faytong Haro,Penn State Universtiy,33
+Grace,Armijo,Universidad de Barcelona,32
+
+
+
+
+
