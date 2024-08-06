@@ -1,4 +1,4 @@
-#Repositorio para al clase de Git y GitHub
+# Repositorio para al clase de Git y GitHub
 
 Este es mi repositorio para practicar GIT.
 
@@ -6,12 +6,7 @@ Creador: Del Rosario Ochoa Alan
 
 **Fecha:** 1 de agosto de 2024
 
-#Objetivo de la clase
+# Objetivo de la clase
 
-Comandos básicos de Shell: pwd, cd, mkdir, nano
+Aprendizaje del manejo de Git y GitHub en la clase de Alonso,
 
-Aprender a organizar un repostiro, code, data, README.md
-
-¿Qué son archivos ".csv"? ¿Comó crearlos usando Excel y Shell?
-
-Cambios por registar
