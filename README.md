@@ -2,9 +2,9 @@
 
 Este es mi repositorio para practicar GIT.
 
-Creador: Del Rosario Ochoa Alan
+**Creador:** Del Rosario Ochoa Alan
 
-**Fecha:** 1 de agosto de 2024
+**Fecha:** 5 de agosto de 2024
 
 # Objetivo de la clase
 
