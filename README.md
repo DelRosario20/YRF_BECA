@@ -6,7 +6,7 @@ Este es mi repositorio para practicar GIT.
 
 **Fecha:** 5 de agosto de 2024
 
-# Objetivo de la clase
+## Objetivo de la clase
 
 Aprendizaje del manejo de Git y GitHub en la clase de Alonso,
 
