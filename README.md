@@ -14,4 +14,4 @@ Aprender a organizar un repostiro, code, data, README.md
 
 ¿Qué son archivos ".csv"? ¿Comó crearlos usando Excel y Shell?
 
-
+Cambios por registar
